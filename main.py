@@ -127,7 +127,7 @@ def on_close():
 
 window = Tk()
 window.protocol("WM_DELETE_WINDOW", on_close)
-window.title('Mat Mod Population program')
+window.title('Mathematical Modeling of Population Dynamics')
 window.geometry('1450x730')
 window.configure(bg = "grey")
 
